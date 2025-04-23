@@ -1,6 +1,6 @@
 ---
 title: "Martina Chizzola"
-image: images/martina.jpg
+image: images/martina.jpeg
 about:
   template: trestles
   image-width: 5cm
@@ -14,4 +14,6 @@ about:
 
 Welcome! I am an expected Graduate in International Affairs from John Cabot University, Rome. I have a passion for geopolitics and International Relations. I also have a solid background in R Programming, data analysis and visualization. On this website, you will find mt projects and research, demonstrating my ability to analyze geopolitical issues, visualize data trends, and propose feasible recommendations for policy improvements.
 
-You can also take a look at my CV: <a href="/cv/Martina Chizzola CV Resume.pdf" <a href="cv/Martina Chizzola CV Europass.pdf" target="blank">CV</a
+You can also take a look at my CV: 
+<a href="Martina-Chizzola-CV-Resume" target="blank">Martina Chizzola Resume</a> 
+<a href="cv/Martina-Chizzola-CV-Europass.pdf" target="blank">Martina Chizzola CV</a>
