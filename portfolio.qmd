@@ -1,0 +1,13 @@
+---
+title: "Portfolio"
+format: html
+editor: visual
+---
+
+## Portfolio
+
+Here you can check out the projects I have created
+
+<ul>
+  <li><a href="mapping ideology.html" target="_blank">Mapping Ideology<a/></li>
+  </li>
