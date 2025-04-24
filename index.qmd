@@ -6,6 +6,8 @@ about:
   image-width: 5cm
   image-shape: round
   links:
+    - icon: tiktok
+      href: https://www.tiktok.com/@global.perspectives?_t=ZN-8vnRqxhMm0s&_r=1 
     - icon: github
       href: https://github.com/martinachizzola
     - icon: linkedin
