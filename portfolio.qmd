@@ -6,8 +6,13 @@ editor: visual
 
 ## Portfolio
 
-Here you can check out the projects I have created
+Here you can check out the projects I have created:
 
 <ul>
-  <li><a href="mapping ideology.html" target="_blank">Mapping Ideology<a/></li>
-  </li>
+
+<li><a href="mapping ideology.html" target="_blank">Mapping Ideology<a/></li>
+
+</li>
+
+
+The project analyzes what is Euroscepticism and how terrorist attacks have influenced the agendas of Eurosceptic right-wing parties, such as the *Rassemblement National*
