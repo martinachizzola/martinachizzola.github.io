@@ -4,15 +4,16 @@ format: html
 editor: visual
 ---
 
-## Portfolio
+## Projects
 
 Here you can check out the projects I have created:
 
-<ul>
+</ul>
 
-<li><a href="mapping ideology.html" target="_blank">Mapping Ideology<a/></li>
+<li><a href="The Influence of Terrorist Attacks-Report.html" target="_blank">Report: The Influence of Terrorist Attacks on the Agenda of Right-Wing Eurosceptic Parties. *Rassemblement National* as a Case Study<a/></li>
 
 </li>
 
+<li><a href="The Influence of Terrorist Attacks on the Agenda of Righ-Wing Eurosceptic Parties.html" target="_blank">Presentation: The Influence of Terrorist Attacks on the Agenda of Right-Wing Eurosceptic Parties. *Rassemblement National* as a Case Study<a/></li>
 
-The project analyzes what is Euroscepticism and how terrorist attacks have influenced the agendas of Eurosceptic right-wing parties, such as the *Rassemblement National*
+</li>
