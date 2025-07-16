@@ -6,7 +6,7 @@ about:
   image-width: 5cm
   image-shape: round
   links:
-    - icon: X
+    - icon: x
       href: https://x.com/martinachizzola?s=11     
     - icon: tiktok
       href: https://www.tiktok.com/@global.perspectives?_t=ZN-8vnRqxhMm0s&_r=1 
